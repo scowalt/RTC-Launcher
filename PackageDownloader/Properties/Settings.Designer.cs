@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Package_Downloader.Properties
+namespace PackageDownloader.Properties
 {
 
 

@@ -16,7 +16,7 @@ namespace RTCV.Launcher
         [STAThread]
         static void Main()
         {
-            using (var mutex = new Mutex(true, "RTC_Launcher", out var createdNew))
+            using (var mutex = new Mutex(true, "RTCLauncher", out var createdNew))
             {
                 if (createdNew)
                 {

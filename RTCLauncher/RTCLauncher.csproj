@@ -3,7 +3,7 @@
     <TargetFramework>net45</TargetFramework>
     <OutputType>WinExe</OutputType>
     <RootNamespace>RTCV.Launcher</RootNamespace>
-    <AssemblyName>RTC_Launcher</AssemblyName>
+    <AssemblyName>RTCLauncher</AssemblyName>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
