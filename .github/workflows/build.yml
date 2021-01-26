@@ -12,3 +12,5 @@ jobs:
       run: msbuild /t:restore RTCLauncher.sln
     - name: Build with MSBuild
       run: msbuild RTCLauncher.sln
+    - name: Test
+      run: dotnet test
